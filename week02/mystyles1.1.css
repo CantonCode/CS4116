@@ -1,0 +1,21 @@
+body{
+	background-color:green;
+}
+
+#title{
+color:red;
+}
+
+#t1{
+	background-color:grey;
+}
+
+p{
+	color:grey;
+	background-color:red;
+}
+
+.styles{
+	color:blue;
+	background-color:pink;
+}

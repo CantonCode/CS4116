@@ -1,0 +1,21 @@
+body{
+	background-color:orange;
+}
+
+#title{
+color:blue;
+background-color:yellow;
+}
+
+#t1{
+	background-color:yellow;
+}
+
+p{
+	color:green;
+	background-color:yellow;
+}
+
+.styles{
+	background-color:yellow;
+}
